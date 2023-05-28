@@ -1,1 +1,1 @@
-<?php echo shell_exec("whoami");?>
+<?PHP echo "1337"; ?>
